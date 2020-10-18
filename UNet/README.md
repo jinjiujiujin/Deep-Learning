@@ -1,3 +1,6 @@
+## Canny边缘检测算法
+文件夹自己建，图片自己找
+
 文件说明：
 * __pycache__/ python所需文件
 * originImg/ 存储待操作的图片
