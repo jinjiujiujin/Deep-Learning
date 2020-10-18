@@ -1,0 +1,2 @@
+# HandWrittenDigitRecognition
+基于python和mnist数据集上，手写数字的识别和生成
