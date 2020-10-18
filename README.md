@@ -37,7 +37,7 @@ mnist数据集（未上传）下载地址：http://yann.lecun.com/exdb/mnist/
 模型训练时间约2-3h.
 
 ## 5.[CNN实现手写数字的识别](https://github.com/jinjiujiujin/Deep-Learning/HandWrittenDigit/CNN)
-基于pytorch和mnist数据集, 生成手写数字.
+基于tensorflow和mnist数据集, 生成手写数字.
 
 mnist数据集（未上传）下载地址：http://yann.lecun.com/exdb/mnist/
 
