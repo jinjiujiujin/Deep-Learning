@@ -6,6 +6,7 @@
 
 * 参考教程：https://cuijiahua.com/blog/2020/03/dl-16.html
 * 数据集（未上传）下载地址：https://github.com/Jack-Cherish/Deep-Learning/tree/master/Pytorch-Seg/lesson-2/data
+
 内含2个简单的jupyter notebook。
 
 模型训练时间超过5h.（未统计）
