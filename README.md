@@ -43,3 +43,11 @@ mnist数据集（未上传）下载地址：http://yann.lecun.com/exdb/mnist/
 mnist数据集（未上传）下载地址：http://yann.lecun.com/exdb/mnist/
 
 一个比较简单的小项目。
+
+## 6.[cGAN实现生成特定的手写数字](https://github.com/jinjiujiujin/Deep-Learning/tree/main/cGAN)
+基于pytorch和mnist数据集，生成0-9间特定的手写数字
+mnist数据集（未上传）下载地址：http://yann.lecun.com/exdb/mnist/
+
+内含一个简单的jupyter notebook.
+
+模型训练时间约2-3h.
